@@ -42,7 +42,12 @@
 
 ###
 
-<p align="left">👋 Hi, I'm Muratcan YELDAN<br><br>- 🔭 I’m working as Senior Software Engineer at [Bitpace](https://bitpace.com/)<br><br>- :student: BSc Computer Engineering at [Yıldız Technical University](https://yildiz.edu.tr/)</p>
+<p align="left">👋 Hi, I'm Muratcan YELDAN
+
+- 🔭 I’m working as Senior Software Engineer at [Bitpace](https://bitpace.com/)
+
+- :student: BSc Computer Engineering at [Yıldız Technical University](https://yildiz.edu.tr/)
+</p>
 
 
 ###
