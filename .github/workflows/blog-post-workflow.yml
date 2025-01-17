@@ -1,0 +1,22 @@
+name: Latest Medium Blog Posts
+on:
+  schedule:
+    # Runs every day at 00:00 UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      
+      - name: Pull in dev.to posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://medium.com/feed/@muratcanyeldan"
+          max_post_count: 4
+          commit_message: "Update README with latest Medium posts"
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
