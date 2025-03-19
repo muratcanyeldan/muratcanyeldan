@@ -57,10 +57,10 @@
 ###
 
 <!-- BLOG-POST-LIST:START -->
+- [How I Created My Own Maven Dependency Analyzer for Keeping Track of My Projects — Part 1](https://muratcanyeldan.medium.com/how-i-created-my-own-maven-dependency-analyzer-for-keeping-track-of-my-projects-part-1-346b516c86b9?source=rss-5ffcff65f18f------2)
 - [How to Create a Slack Bot with Spring Boot](https://muratcanyeldan.medium.com/how-to-create-a-slack-bot-with-spring-boot-bc7ed3243e9c?source=rss-5ffcff65f18f------2)
 - [How to Create a Telegram Bot with Spring Boot](https://muratcanyeldan.medium.com/how-to-create-a-telegram-bot-with-spring-boot-9289d81dfe6a?source=rss-5ffcff65f18f------2)
 - [Implementing Kafka and Dead Letter Queue in Java](https://muratcanyeldan.medium.com/implementing-kafka-and-dead-letter-queue-in-java-f0938276f217?source=rss-5ffcff65f18f------2)
-- [How to Remote Debug a Containerized Java Application with IntelliJ IDEA](https://muratcanyeldan.medium.com/how-to-remote-debug-a-containerized-java-application-with-intellij-idea-45cd9de7ee9a?source=rss-5ffcff65f18f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">🛠 Language and tools</h3>
