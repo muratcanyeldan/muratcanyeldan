@@ -32,12 +32,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/muratcanyeldan/count.svg?"  />
-</div>
-
-###
-
 <h3 align="left">👨‍💻  About Me</h3>
 
 ###
