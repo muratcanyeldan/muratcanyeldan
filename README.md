@@ -60,8 +60,6 @@
 
 <h3 align="left">🛠 Language and tools</h3>
 
-###
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" title="Java" alt="java logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" title="Spring Framework" alt="spring logo" />
